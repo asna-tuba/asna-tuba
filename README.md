@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asna-tuba
 - 👀 I’m interested in data science domain
 - 🌱 I’m currently a fresher
-- 💞️ I’m looking to wpork with top companies 
+- 💞️ I’m looking to work with top companies 
 - 📫 How to reach me -asnatuba21@gmail.com
 
 <!---
